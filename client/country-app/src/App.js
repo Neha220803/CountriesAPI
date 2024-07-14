@@ -72,7 +72,6 @@ function App() {
     <div>
       <Container className='mt-5 d-flex justify-content-center align-items-center'>
         <Row className='d-flex justify-content-center align-items-center'>
-
           <Form onSubmit={handleSubmit} className="d-flex align-items-center">
             <Form.Group controlId="countryName" className="mr-2 mb-0">
               <Form.Control
